@@ -51,3 +51,7 @@ Por una parte, los diagnósticos más críticos sobre el estancamiento de Europa
 Por otra parte, la narrativa generalizada de un declive continental resulta incompleta cuando omite en el análisis el incremento del coste de vida en las zonas más dinámicas. Al deflactar el consumo mediante la Paridad de Poder Adquisitivo, la evidencia demuestra que el ciudadano medio del país Social preserva un estándar de vida altamente competitivo e incluso superior en ciertas dimensiones de seguridad financiera.
 
 El bienestar agregado de una economía moderna no depende exclusivamente de su capacidad para liderar los sectores de frontera tecnológica, sino que descansa profundamente sobre la eficiencia con la que logra proveer los servicios básicos cotidianos. Estos servicios conforman la inmensa mayoría del gasto y consumo de los hogares. En definitiva, la sólida capacidad de Europa para mantener una alta eficiencia agregada en su modelo social explica claramente el motivo por el cual la calidad de vida de sus ciudadanos no se ha deteriorado en la medida dramática que sugerirían los indicadores de producción nominal estricta.
+
+***
+
+*Para mayor transparencia, todo el c�digo en Python y los ficheros asociados utilizados para generar este an�lisis est�n disponibles p�blicamente. Puedes consultarlos y replicar los resultados en el [repositorio de GitHub del proyecto](https://github.com/mhidper/Substack).*

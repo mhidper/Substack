@@ -51,3 +51,7 @@ On the one hand, the most critical diagnoses of European stagnation are accurate
 On the other hand, the widespread narrative of continental decline is incomplete when the cost of living analysis in the most dynamic areas is omitted. By deflating consumption through Purchasing Power Parity, evidence shows that the average citizen in the Social country maintains a highly competitive standard of living, and even superior in certain dimensions of financial security.
 
 The aggregate well-being of a modern economy does not depend exclusively on its ability to lead frontier technology sectors, but rests deeply on the efficiency with which it provides daily basic services. These services make up the vast majority of household expenditure and consumption. Ultimately, Europe's solid capacity to maintain high aggregate efficiency in its social model clearly explains why the quality of life for its citizens has not deteriorated to the dramatic extent that strict nominal production indicators would suggest.
+
+***
+
+*For transparency, all Python code and associated files used to generate this analysis are publicly available. You can review them and replicate the results in the [project's GitHub repository](https://github.com/mhidper/Substack).*
