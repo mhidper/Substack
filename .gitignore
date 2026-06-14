@@ -4,6 +4,9 @@
 # Ignorar las carpetas de trabajo temporal (según tus reglas globales)
 **/scratch/
 
+# Ignorar la carpeta de skills para que no se suba al repositorio
+skills/
+
 # Ignorar archivos ocultos del sistema
 .DS_Store
 Thumbs.db
